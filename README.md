@@ -10,14 +10,6 @@
 to my personal GitHub profile!
 </div>
 
-
-
-<hr>
-
-
-
-<hr>
-
 <div align="center">
 <p>Have a good day!</p>
 <div>
